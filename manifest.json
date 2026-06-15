@@ -1,6 +1,6 @@
 {
-  "name": "TRC CFT 2 - Cash Flow Tracker",
-  "short_name": "CF Tracker",
+  "name": "Survey App",
+  "short_name": "SurveyApp",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
